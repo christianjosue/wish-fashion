@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "glider-js": "^1.7.8"
+  }
+}
